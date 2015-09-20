@@ -112,7 +112,7 @@ $autoload['language'] = array();
   |
  */
 
-$autoload['model'] = array('contacts');
+$autoload['model'] = array('images');
 
 
 /* End of file autoload.php */
